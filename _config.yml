@@ -1,1 +1,8 @@
-theme: jekyll-theme-midnight
+title: test
+author: none
+email: none
+description: none
+
+#Build settings
+markdown: kramdown
+theme: minima
