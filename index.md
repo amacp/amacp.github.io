@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<img src="ailene.jpg" alt="MyPhoto">
 
 <h1>My First Heading</h1>
 
