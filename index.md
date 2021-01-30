@@ -6,7 +6,7 @@
 
 <p>My first paragraph.</p>
 
-<a href="test.pdf">my link</a>
+<a href="test.pdf">TEST_LINK</a>
 
 <object data="test.pdf" width="1000" height="1000" type='application/pdf'/>
 
