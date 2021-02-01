@@ -1,6 +1,13 @@
 title: Ailene MacPherson
 email: ailene.macpherson@utoronto.ca
-twitter: @ailenemacp
+
+minima:
+  date_format: "%b %-d, %Y"
+
+# generate social links in footer
+social_links:
+  twitter: ailenemacp
+  #github:  jekyll
 
 #Build settings
 markdown: kramdown
