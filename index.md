@@ -16,4 +16,4 @@ I recently completed my Ph.D. at the University of British Columbia, Canada, whe
 
 In addition to exploring the E3 intersection, I enjoy pondering a diverse set of evolutionary questions in topics including range expansion, hybridization, local adaptation, parallel evolution, and adaptation with gene flow. I was introduced to population genetics and evolutionary modelling by [Dr. Scott Nuismer](https://www.leeef.org/)  at the University of Idaho, U.S., where we worked on several theoretical and statistical models in evolution.
 
-I am committed to the advance diversity and equity in science via science communication, collaboration, and outreach.  As a theroetical biologists I am particularly focused on breaking down barriers to the use of mathematics and statsitics in biology.  
+I am committed to the advancment of diversity and equity in science via science communication, collaboration, and outreach.  As a theroetical biologist, I am particularly focused on breaking down barriers to the use of mathematics and statsitics in biology.  Please see the outreach page for more info.
