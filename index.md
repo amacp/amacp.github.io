@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html>
-<body>
-<img src="ailene.jpeg" alt="MyPhoto" width="200">
+---
+title: Home
+---
 
-<h1>My First Heading</h1>
+![](ailene.jpeg | width=100)
 
-<p>My first paragraph.</p>
+[Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-<a href="test.pdf">TEST_LINK</a>
+[Curriculum Vitae]("test.pdf")
 
-<object data="test.pdf" width="1000" height="1000" type='application/pdf'/>
+#Bio:
 
-</body>
-</html>
+About me
 
 
