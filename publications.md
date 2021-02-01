@@ -5,7 +5,7 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-#Ph.D.
+# Ph.D.
 
 **MacPherson, A**.,Keeling M.J., Otto, S.P., Feedback between coevolution and epidemiology can help or hinder the maintenance of genetic variation in host‐parasite models. *Evolution*. 2021
 
@@ -15,7 +15,7 @@ title: Publications
 
 **MacPherson, A.**, Otto, S.P., Joint coevolutionary-epidemiological models dampen Red Queen cycles and alter conditions for epidemics. *Theoretical Population Biology*. 2018
 
-#Masters & Undergraduate
+# Masters & Undergraduate
 
 **MacPherson, A.**, Nuismer, S.L., Natural Selection and the probability of parallel genetic evolution from standing genetic variation. *Journal of Evolutionary Biology*. 2017
 
@@ -25,7 +25,7 @@ Nuismer, S.L., **MacPherson, A.**, Rosenblum, E.B., Crossing the threshold: gene
 
 Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat diet-induced neuropathy of enteric nervious ssystem and the effect of Alpha-7 Nicotinic Acetylcholine receptoragonist, DMAB-Anabaseine Dihydrochloride. *Gastroenterology*. 2011
 
-#Preprints
+# Preprints
 **MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., A General Birth-Death-Sampling Model for Epidemiology and Macroevolution. *bioRxiv*
 
 Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *bioRxiv*
