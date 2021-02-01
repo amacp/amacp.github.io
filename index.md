@@ -1,8 +1,7 @@
 ---
 title: Home
 ---
-
-![](ailene.jpeg | width=100)
+![profile](./ailene.jpeg){:height="200px"}
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
