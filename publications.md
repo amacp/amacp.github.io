@@ -9,7 +9,7 @@ title: Publications
 
 **MacPherson, A**.,Keeling M.J., Otto, S.P., Feedback between coevolution and epidemiology can help or hinder the maintenance of genetic variation in host‐parasite models. *Evolution*. 2021
 
-Mathematica Files: A: [Constant_Size](./MathematicaFiles/ConstantSize.nb), B: [Ecological_Model](./MathematicaFiles/EcologicalModel.nb), C: [Epidemiological_Model](./MathematicaFiles/EpidemiologicalModel.nb)
+Mathematica Files: A: [Constant_Size](MathematicaFiles/Constant_8_10.nb), B: [Ecological_Model](./MathematicaFiles/EcologicalModel_8_10.nb), C: [Epidemiological_Model](./MathematicaFiles/EpidemiologicalModel_8_10.nb)
 
 **MacPherson, A.**,Keeling M.J., Otto, S.P., Coevolution fails to maintain genetic variation in a host–parasite model with constant finite population size. *Theoretical Population Bioology*. 2020
 
