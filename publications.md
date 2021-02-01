@@ -9,11 +9,19 @@ title: Publications
 
 **MacPherson, A**.,Keeling M.J., Otto, S.P., Feedback between coevolution and epidemiology can help or hinder the maintenance of genetic variation in host‐parasite models. *Evolution*. 2021
 
+Mathematica Files: A:[Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar")
+
 **MacPherson, A.**,Keeling M.J., Otto, S.P., Coevolution fails to maintain genetic variation in a host–parasite model with constant finite population size. *Theoretical Population Bioology*. 2020
+
+Mathematica Files: A:[CoGWAS](./MathematicaFiles/CoGWAS_Supplement.nb)
 
 **MacPherson, A.**, Otto, S.P., Nuismer, S.L., Keeping pace with the Red Queen: Identifying the genetic basis of susceptibility to infectious disease. *Genetics*. 2018
 
+Mathematica Files: A:[CoGWAS](./MathematicaFiles/CoGWAS_Supplement.nb)
+
 **MacPherson, A.**, Otto, S.P., Joint coevolutionary-epidemiological models dampen Red Queen cycles and alter conditions for epidemics. *Theoretical Population Biology*. 2018
+
+Mathematica Files: A:[SIRS_Model](./MathematicaFiles/SIRS_Model.nb), B:[SEIRS_Model](./MathematicaFiles/SEIRS_Model.nb), C:[Morand_Model](./MathematicaFiles/Morand_Model_and_Selection.nb)
 
 # Masters & Undergraduate
 
