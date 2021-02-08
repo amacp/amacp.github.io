@@ -5,7 +5,7 @@ title: Home
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-[Curriculum Vitae]("test.pdf")
+[Curriculum Vitae](CV.pdf)
 
 # Bio:
 
