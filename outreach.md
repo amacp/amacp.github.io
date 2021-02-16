@@ -8,10 +8,11 @@ title: Outreach
 Maybe you simply think models are cool, or have just begun dabbling in modelling, or maybe you model every day but what to find modelling friends, then this is for you.  This group is aimed at breaking down barriers to entry in modelling and to building modelling collaborations to answer fascinating questions in ecology and evolution. Each week we discuss topics in theoretical biology with a particular emphasis on the connections between theoretical models and empirical data and systems. Please contact me at ailene[dot]macpherson[at]utoronto[dot]ca for more details.
 
 **Videos- Winter Term 2021**: Video .zip files
-1. [Population Growth](https://www.zoology.ubc.ca/~amacp/Videos/Week_1.zip)
-2. [Geographically Structured Populations](https://www.zoology.ubc.ca/~amacp/Videos/Week_2.zip)
-3. [Age-Structured Populations](https://www.zoology.ubc.ca/~amacp/Videos/Week_3.zip)
+1. [Population Growth](https://drive.google.com/file/d/1k8MaIrWoF7do0qMbTAp52xlgkfI81gZu/view?usp=sharing)
+2. [Geographically Structured Populations](https://drive.google.com/file/d/1Sp_3jl6mmSTZKZPWgG47lFC1cwgwWl9C/view?usp=sharing)
+3. [Age-Structured Populations](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
 4. Integral-Projection Models
+5. [Compartmental Models](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
 
 # Researh Videos
 
