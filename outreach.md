@@ -13,6 +13,7 @@ Maybe you simply think models are cool, or have just begun dabbling in modelling
 3. [Age-Structured Populations](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
 4. Integral-Projection Models
 5. [Compartmental Models](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
+6. [Building blocks of population genetics](https://drive.google.com/file/d/1YhDoVGaCgYJa09OsnMXkiwdVOZpK08hk/view?usp=sharing)
 
 # Researh Videos
 
