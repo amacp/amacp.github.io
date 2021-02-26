@@ -30,6 +30,4 @@ Researchers Revealed- Beaty Biodiversity Museum UBC
 
 # Secondary Education Outreach
 
-Matheamtical ecology is a fantastic introduction to applied mathematics.  
-My scientific outreach is aimed at bringing mathematical biology to secondary education classrooms.
-Growing up in rural educations system, I prioritize outreach to educational enviornments using the power of technology (Zoom, ShinyApps by R, etc.).
+Matheamtical ecology is a fantastic introduction to applied mathematics.  My scientific outreach is aimed at bringing mathematical biology to secondary education classrooms.Growing up in a rural education system, I prioritize outreach to educational enviornments using the power of technology (Zoom, ShinyApps by R, etc.).
