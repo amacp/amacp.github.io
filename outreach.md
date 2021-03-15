@@ -32,5 +32,5 @@ Researchers Revealed- Beaty Biodiversity Museum UBC
 
 Matheamtical ecology is a fantastic introduction to applied mathematics.  My scientific outreach is aimed at bringing mathematical biology to secondary education classrooms.Growing up in a rural education system, I prioritize outreach to educational enviornments using the power of technology (Zoom, ShinyApps by R, etc.).
 
- <iframe src="http://docs.google.com/gview?url=https://github.com/amacp/amacp.github.io/blob/master/Outreach_Flyer_03_21.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+[Biological Applications of Mathematics and Statistics-Ontario](https://github.com/amacp/amacp.github.io/blob/master/Outreach_Flyer_03_21.pdf)
 
