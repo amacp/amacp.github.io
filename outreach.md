@@ -21,7 +21,7 @@ Maybe you simply think models are cool, or have just begun dabbling in modelling
 11. Models of Molecular Evolution
 12. Brownian Motion and OU Processes
 13. Trait-dependent diversification
-14. Neutral Theories of evolution and biodiversity
+14. Neutral theories of evolution and biodiversity
 
 # Researh Videos
 
