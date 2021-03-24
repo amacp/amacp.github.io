@@ -15,9 +15,13 @@ Maybe you simply think models are cool, or have just begun dabbling in modelling
 5. [Compartmental Models](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
 6. [Building blocks of population genetics](https://drive.google.com/file/d/1YhDoVGaCgYJa09OsnMXkiwdVOZpK08hk/view?usp=sharing)
 7. [Coalescent Theory](https://drive.google.com/file/d/1rdENoVDdra08SbPD9jkxSpj6tNE4ggP0/view?usp=sharing)
-8. Diffusion Equation
-9. Fundamental Theorms in Evolution
+8. [Diffusion Equation](https://drive.google.com/file/d/1FLP0giyiSBDgvLpkJDNj_LJDr1E2QgGZ/view?usp=sharing)
+9. [Fundamental Theorms in Evolution](https://drive.google.com/file/d/1Z07wEeFWYwJJKMOz4brKWd84_U4EY4BQ/view?usp=sharing)
 10. Addaptive Dynamics
+11. Models of Molecular Evolution
+12. Brownian Motion and OU Processes
+13. Trait-dependent diversification
+14. Neutral Theories of evolution and biodiversity
 
 # Researh Videos
 
