@@ -13,14 +13,14 @@ Maybe you simply think models are cool, or have just begun dabbling in modelling
 3. [Age-Structured Populations](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
 4. Integral-Projection Models
 5. [Compartmental Models](https://drive.google.com/file/d/1a0QmLt9mZjIXYREyslD4jPgucjBVfMkO/view?usp=sharing)
-6. [Building blocks of population genetics](https://drive.google.com/file/d/1YhDoVGaCgYJa09OsnMXkiwdVOZpK08hk/view?usp=sharing)
+6. [Building Blocks of Population Genetics](https://drive.google.com/file/d/1YhDoVGaCgYJa09OsnMXkiwdVOZpK08hk/view?usp=sharing)
 7. [Coalescent Theory](https://drive.google.com/file/d/1rdENoVDdra08SbPD9jkxSpj6tNE4ggP0/view?usp=sharing)
 8. [Diffusion Equation](https://drive.google.com/file/d/1FLP0giyiSBDgvLpkJDNj_LJDr1E2QgGZ/view?usp=sharing)
 9. [Fundamental Theorms in Evolution](https://drive.google.com/file/d/1Z07wEeFWYwJJKMOz4brKWd84_U4EY4BQ/view?usp=sharing)
 10. Addaptive Dynamics
 11. [Models of Molecular Evolution](https://drive.google.com/file/d/1oSXASAwHE8S2YUjun_uRU5B3779pRecr/view?usp=sharing)
-12. Brownian Motion and OU Processes
-13. Trait-dependent diversification
+12. [Brownian Motion and OU Processes](https://drive.google.com/file/d/1oSXASAwHE8S2YUjun_uRU5B3779pRecr/view?usp=sharing)
+13. [Diversification Models](https://drive.google.com/file/d/1NDU9gC4idsuyZtSBkicunt5z12Srnwdv/view?usp=sharing)
 14. Neutral theories of evolution and biodiversity
 
 # Researh Videos
