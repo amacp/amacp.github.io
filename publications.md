@@ -5,6 +5,10 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
+**MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., Unifying Phylogenetic Birth-Death Models in Epidemiology and Macroevolution. *Systematic Biology*. 2021
+
+Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolutionv*. 2021
+
 # Ph.D.
 
 **MacPherson, A**.,Keeling M.J., Otto, S.P., Feedback between coevolution and epidemiology can help or hinder the maintenance of genetic variation in host‐parasite models. *Evolution*. 2021
@@ -34,8 +38,5 @@ Nuismer, S.L., **MacPherson, A.**, Rosenblum, E.B., Crossing the threshold: gene
 Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat diet-induced neuropathy of enteric nervious ssystem and the effect of Alpha-7 Nicotinic Acetylcholine receptoragonist, DMAB-Anabaseine Dihydrochloride. *Gastroenterology*. 2011
 
 # Preprints
-**MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., A General Birth-Death-Sampling Model for Epidemiology and Macroevolution. *bioRxiv*
-
-Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *bioRxiv*
 
 **MacPherson, A.**, Wang, S., Yamaguchi, R., Reiseberg, L., Otto, S., Parental population range expansion before secondary contact promotes heterosis. *bioRxiv*
