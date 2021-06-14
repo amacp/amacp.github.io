@@ -7,7 +7,7 @@ title: Publications
 
 **MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., Unifying Phylogenetic Birth-Death Models in Epidemiology and Macroevolution. *Systematic Biology*. 2021
 
-Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolutionv*. 2021
+Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolution*. 2021
 
 # Ph.D.
 
