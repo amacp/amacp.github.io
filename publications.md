@@ -42,4 +42,4 @@ Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat die
 
 # Preprints
 
-**MacPherson, A.**, Wang, S., Yamaguchi, R., Reiseberg, L., Otto, S., Parental population range expansion before secondary contact promotes heterosis. *bioRxiv*
+Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in theDisease-Diversity Relationship. 
