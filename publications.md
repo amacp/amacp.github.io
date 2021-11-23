@@ -5,6 +5,9 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
+
+**MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. *Cond. Accept.*
+
 **MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., Unifying Phylogenetic Birth-Death Models in Epidemiology and Macroevolution. *Systematic Biology*. 2021
 
 Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolution*. 2021
