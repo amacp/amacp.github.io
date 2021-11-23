@@ -43,3 +43,5 @@ Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat die
 # Preprints
 
 Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in theDisease-Diversity Relationship. 
+
+Wang S. et al. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. 
