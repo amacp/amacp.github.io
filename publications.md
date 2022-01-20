@@ -5,6 +5,7 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
+Wang S., Nalley M.J., Chatla K., Aldaimalani R., **MacPherson A.** , Wei K., Corbett R., Mai D., Bachtrog D. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS (in print)* 2022
 
 **MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. *Cond. Accept.*
 
@@ -43,5 +44,3 @@ Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat die
 # Preprints
 
 Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in theDisease-Diversity Relationship. 
-
-Wang S. et al. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. 
