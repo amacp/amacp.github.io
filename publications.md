@@ -7,7 +7,7 @@ title: Publications
 
 Wang S., Nalley M.J., Chatla K., Aldaimalani R., **MacPherson A.** , Wei K., Corbett R., Mai D., Bachtrog D. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS (in print)* 2022
 
-**MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. *Cond. Accept.*
+**MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. 2022
 
 **MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., Unifying Phylogenetic Birth-Death Models in Epidemiology and Macroevolution. *Systematic Biology*. 2021
 
