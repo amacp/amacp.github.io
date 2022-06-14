@@ -9,8 +9,7 @@ title: People
 <img align="left" src="people/Yexuan2.png" alt="Yexuan Song">
 <br/><br/> 
 I am interested in phylogenetics. In particular Ancestral State Reconstruction methods which are widely used in phylogenetics for identifying the character states of evolutionary ancestors.  I am also interested in using mathematical models of infectious diseases to study how diseases spread.
- <br/><br/> <br/><br/> <br/><br/> <br/><br/>
-
+ <br/><br/> <br/><br/> <br/><br/> 
 *Oliver Fujiki*: USRA 
 
 *Rebeccah Hall*: Incoming MSc
