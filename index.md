@@ -1,11 +1,16 @@
 ---
 title: Home
 ---
-![profile](./ailene.jpeg){:height="200px"}
+<img align="left" src="people/Ailene2.png" alt="Ailene MacPherson">
+<br/><br/> <br/><br/><br/><br/>
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
 [Curriculum Vitae](CV.pdf)
+
+Twiter: @ailenemacp
+
+<br/><br/><br/><br/><br/>
 
 # Bio:
 
