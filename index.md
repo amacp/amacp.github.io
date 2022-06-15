@@ -12,7 +12,7 @@ Twiter: @ailenemacp
 
 <br/><br/><br/><br/><br/>
 
-# Bio:
+# Research Overview:
 
 I don’t like math. I *love* math. Particularly, as applied to evolution and population genetics. 
 My research program is aimed at addressing fundamental questions in ecology and evolution through the lens of infectious diseases. Viruses, in particular, provide a unique opportunity to address eco-evolutionary questions, specifically coevolutionary ones, due to their rapid mutation rates and the extensive availability of genomic data.  However, as many viruses are transmitted directly from host to host, examining coevolution in these systems requires developing a fully integrated ecological-epidemiological-evolutionary (E3) framework.  My research aims are hence two-fold. First, I develop the mathematical and statistical methods at the ecology-evolution-epidemiology interface. Second, I use these computational tools to address fundamental questions in these three fields.
