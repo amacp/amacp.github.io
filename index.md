@@ -8,7 +8,7 @@ title: Home
 
 [Curriculum Vitae](CV.pdf)
 
-Email: ailenem [at] sfu [dpt] ca
+Email: ailenem [at] sfu [dot] ca
 
 Twiter: @ailenemacp
 
