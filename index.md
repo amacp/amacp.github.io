@@ -2,7 +2,7 @@
 title: Home
 ---
 <img align="left" src="people/Ailene2.png" alt="Ailene MacPherson">
-<br/><br/> <br/><br/><br/><br/>
+<br/><br/> <br/><br/><br/>
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
