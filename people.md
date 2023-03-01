@@ -14,6 +14,15 @@ I am interested in phylogenetics. In particular Ancestral State Reconstruction m
 
 *Rebeccah Hall*: Incoming MSc
 
+*Mahdi Salehzadeh*: PhD (Coadvised by John Stockie)
+
+<img align="left" src="people/Mahdi.png" alt="Mahdi Salehzadeh">
+<br/><br/> 
+I do have a wide range of research interests that are motivated by biological applications. My current effort involves using epidemiology and evolutionary approaches to examine bark beetle infestations. I’m interested in exploring multi-scale questions that occur in a variety of fields, broadly speaking falling under the following categories:
+1. Investigating the dynamics within the host (tree) using computational fluid dynamics approaches.
+2. Creating a brand-new model to depict an outbreak of the bark beetle while refining the presumptions made in earlier literature studies. and evaluating the severity of many parameters to limit the outbreak.
+3. Examining issues brought up in the study of evolution, such as local adaptation.
+
 **Postdocs**
 
 *Amy Langdon*: PDF (Cohosted by Caroline Colijn)
