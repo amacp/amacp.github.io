@@ -14,8 +14,12 @@ I am interested in phylogenetics. In particular Ancestral State Reconstruction m
 *Rebeccah Hall*: MSc
  <br/><br/>
 *Mahdi Salehzadeh*: PhD (Coadvised by John Stockie)
+<br/>
+
+[Mahdi's Homepage](https://itsmahdi-ca.github.io/ca/)
 
 <img align="left" src="people/Mahdi.png" alt="Mahdi Salehzadeh"  width="175">
+
 <br/>
 I have a wide range of research interests that are motivated by biological applications. My current work involves using epidemiology and evolutionary approaches to examine bark beetle infestations. I’m interested in exploring multi-scale questions that occur in a variety of fields, broadly speaking falling under the following categories:
 <br/> 
@@ -25,13 +29,6 @@ I have a wide range of research interests that are motivated by biological appli
 <br/><br/> <br/><br/> 
 
 ## Postdoctoral Fellows
-
-*Amy Langdon*: PDF (Cohosted by Caroline Colijn)
-
-<img align="left" src="people/Amy2.png" alt="Amy Langdon"  width="175">
-<br/><br/> 
-Amy joined the MAPGIE group in Dec 2021 as a postdoctoral fellow to work on transmission modeling for ongoing pandemics. She holds a PhD in Molecular Genetics and Genomics as well as a Masters of Population Health Science from Washington University in St. Louis. Her graduate research focused on predicting the effects of medical interventions on communities of human-associated microbes in global health settings.
- <br/><br/> <br/><br/>
 
 *Siavash Riazi*: PDF (Cohosted by Caroline Colijn)
 
@@ -43,4 +40,8 @@ Amy joined the MAPGIE group in Dec 2021 as a postdoctoral fellow to work on tran
 
 *Oliver Fujiki*: (USRA 2022) Oliver developed likelihood methods for analyzing data from coevolutionary time-shift experiments between the nemotode *C. elegans* and its parasite *B. thuringiensis*.  
  <br/><br/>
+ 
+ ## Alumni:
+ 
+ *Amy Langdon*: PDF (Cohosted by Caroline Colijn)
 
