@@ -5,7 +5,12 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-Wang S., Nalley M.J., Chatla K., Aldaimalani R., **MacPherson A.** , Wei K., Corbett R., Mai D., Bachtrog D. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS (in print)* 2022
+Peters, M.A.E., Mideo, N., **MacPherson, A.**, The maintenance of genetic diversity under host-parasite coevolution in finite, structured populations, *J. Evol. Biol.*. 2023
+
+Liu, P., Song, Y., Colijn, C., **MacPherson, A.**, The impact of sampling bias on viral phylogeographic
+reconstruction. *PLoS Global Public Health*. 2022
+
+Wang S., Nalley M.J., Chatla K., Aldaimalani R., **MacPherson A.**, Wei K., Corbett R., Mai D., Bachtrog D., Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS*. 2022
 
 **MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. 2022
 
@@ -39,8 +44,8 @@ Mathematica Files: A: [SIRS_Model](./MathematicaFiles/SIRS_Model.nb), B: [SEIRS_
 
 Nuismer, S.L., **MacPherson, A.**, Rosenblum, E.B., Crossing the threshold: gene-flow, dominance and the critical level of standing genetic variation required for adaptation to novel environments. *Journal of Evolutionary Biology*. 2012
 
-Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat diet-induced neuropathy of enteric nervious ssystem and the effect of Alpha-7 Nicotinic Acetylcholine receptoragonist, DMAB-Anabaseine Dihydrochloride. *Gastroenterology*. 2011
+Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat diet-induced neuropathy of enteric nervous system and the effect of Alpha-7 Nicotinic Acetylcholine receptor agonist, DMAB-Anabaseine Dihydrochloride. *Gastroenterology*. 2011
 
 # Preprints
 
-Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in theDisease-Diversity Relationship. 
+Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in the Disease-Diversity Relationship. 
