@@ -10,9 +10,9 @@ title: Home
 
 Email: ailenem [at] sfu [dot] ca
 
-Twiter: @ailenemacp
-
-<br/><br/><br/><br/><br/>
+<br/>
+<img align="right" src="recruiting.png" alt="Recruiting">
+<br/><br/><br/><br/>
 
 # Research Overview:
 
