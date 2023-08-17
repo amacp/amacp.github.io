@@ -1,8 +1,8 @@
 ---
 title: Home
 ---
-<img align="left" src="people/Ailene2.png" alt="Ailene MacPherson"  width="300">
-<br/><br/> 
+<img align="left" src="people/Ailene2.png" alt="Ailene MacPherson"  width="400">
+<br/>
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
@@ -14,7 +14,7 @@ Email: ailenem [at] sfu [dot] ca
 
 <br/>
 <img align="middle" src="Recruiting.png" alt="Recruiting"  width="325">
-<br/>
+<br/><br/>
 
 # Research Overview:
 
