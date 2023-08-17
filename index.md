@@ -11,8 +11,8 @@ title: Home
 Email: ailenem [at] sfu [dot] ca
 
 <br/>
-<img align="right" src="recruiting.png" alt="Recruiting">
-<br/><br/><br/><br/>
+<img align="middle" src="Recruiting.png" alt="Recruiting"  width="325">
+<br/>
 
 # Research Overview:
 
