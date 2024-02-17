@@ -7,7 +7,7 @@ title: Courses
 ## Probability and Stochastic Stochastic Proceses in Biology ([Website](https://amacp.github.io/Math468/))
 - Last taught in Spring 2024, website may not be maintained
 - Lecture [Videos](https://www.youtube.com/playlist?list=PLYrDm8pP64rG39GkPXJhQeJszlw11kHdO)
-- 
+
 The natural world is inherently random. Describing, understanding, and predicting phenomena in Ecology, Evolution, and Epidemiology therefore requires the use of mathematical models that explicitly include this randomness. In this course we will cover methods and applications of probability, stochastic processes, and computer simulation to these three fields.
 
 ## Matheamtics of Evolution ([Website](https://amacp.github.io/APMA990/))
