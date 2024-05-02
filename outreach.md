@@ -3,6 +3,18 @@ layout: page
 title: Outreach
 ---
 
+# 2024 Computational Math Day
+
+**Jack of all trades: using Mathematica to integrate analytical, numerical, and simulation-based approaches**
+
+Is there one program to rule them all? No, but when it comes to deciding whether you need a hammer or a screwdriver, why not pick the multi-tool? This introduction to Matheamtica will show how this powerful program can be used to bring together analytical, numerical, and simulation-based approaches to address problems in applied mathematics. Using the logistic model of population growth and the Lotka-Volterra model of predator-prey dynamics as a basis, we will examine how having a wide variety of methods at our fingertips is essential for drawing robust biological conclusions. Attendees are encouraged but not required to install Wolfram Notebook Player for the tutorial.
+
+[Mathematica Notebook](ComputationalDay_5_2.nb)
+
+[PDF Version](ComputationalDay_5_2.pdf)
+
+[Wolfram Player](https://www.wolfram.com/player/)
+
 # EEB Toronto Modelling Club
 
 Maybe you simply think models are cool, or have just begun dabbling in modelling, or maybe you model every day but what to find modelling friends, then this is for you.  This group is aimed at breaking down barriers to entry in modelling and to building modelling collaborations to answer fascinating questions in ecology and evolution. Each week we discuss topics in theoretical biology with a particular emphasis on the connections between theoretical models and empirical data and systems. Please contact me at ailene[dot]macpherson[at]utoronto[dot]ca for more details.
