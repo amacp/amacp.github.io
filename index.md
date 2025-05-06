@@ -12,9 +12,11 @@ Email: ailenem [at] sfu [dot] ca
 
 [SFU Math](http://www.sfu.ca/math.html) and the [Mathematics, Genomics & Prediction In Infection & Evolution](https://www.sfu.ca/magpie.html) research group
 
+<!--
 <br/>
 <img align="middle" src="Recruiting.png" alt="Recruiting"  width="325">
 <br/><br/>
+-->
 
 # Research Overview:
 
