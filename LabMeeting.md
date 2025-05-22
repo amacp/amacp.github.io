@@ -4,7 +4,7 @@ title: Lab Resources
 ---
 
 ## Lab Meeting Schedule
-
+Thursdays at 1pm in AQ4102.
 [Summer 2025](https://docs.google.com/spreadsheets/d/11Gyb1py_lyBuCbnBhWrvRXIxfu3-h_lU_pnKv8MOtA8/edit?usp=sharing)
 
 | Week                | Topic        | Details                              |
@@ -12,7 +12,7 @@ title: Lab Resources
 | 2025-05-08 00:00:00 | Lab social   |                                     |
 | 2025-05-15 00:00:00 | Ailene Away  |                                     |
 | 2025-05-22 00:00:00 | Mahdi        |                                     |
-| 2025-05-29 00:00:00 | PD           | Keeping a lab notebook               |
+| 2025-05-29 00:00:00 | PD           | Keeping a lab notebook: ([Sandve et al. 2013](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285), [Schnell 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4565690/))               |
 | 2025-06-05 00:00:00 | Pair-meetups | Yexuan+Erwan, Simon+Luka, Mahdi+Amin |
 | 2025-06-12 00:00:00 | Amin         |                                     |
 | 2025-06-19 00:00:00 | PD           | Time management                      |
