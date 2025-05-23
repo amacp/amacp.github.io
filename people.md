@@ -20,7 +20,7 @@ I am interested in phylogenetics. In particular Ancestral State Reconstruction m
 *Mahdi Salehzadeh*: PhD (Coadvised by John Stockie)
 <br/>
 
-[Mahdi's Homepage](https://itsmahdi-ca.github.io/ca/)
+[Mahdi's Homepage](https://msalehzadeh.github.io/)
 
 <img align="left" src="people/Mahdi.png" alt="Mahdi Salehzadeh"  width="185">
 
