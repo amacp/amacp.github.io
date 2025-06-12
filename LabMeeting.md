@@ -21,9 +21,9 @@ Thursdays at 1pm in AQ4102.
 | 2025-07-10 00:00:00 | Pair-meetups | Yexuan+Erwan, Simon+Luka, Mahdi+Amin |
 | 2025-07-17 00:00:00 | Lab Party    |                                     |
 | 2025-07-24 00:00:00 | Simon        |                                     |
-| 2025-07-31 00:00:00 | PD           | CVs+Websites+Google Scholar          |
+| 2025-07-31 00:00:00 | PD           | Time management                      |
 | 2025-08-07 00:00:00 | Yexuan       |                                     |
 | 2025-08-14 00:00:00 | Luka         |                                     |
-| 2025-08-21 00:00:00 | PD           | Writing proposals                    |
+| 2025-08-21 00:00:00 | PD           | CVs+Websites+Google Scholar        |
 | 2025-08-28 00:00:00 | Off!         |                                     |
 
