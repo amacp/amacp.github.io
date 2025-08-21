@@ -3,6 +3,9 @@ layout: page
 title: People
 ---
 ## Graduate Students
+*Olivia Reiter*: MSc (Coadvised by Ben Ashby)
+
+*Simon Gamboa Levi*: PhD (Coadvised by Leithen M'Gonigle)
 
 *Amin Afshari*: PhD (Coadvised by Leithen M'Gonigle)
 
