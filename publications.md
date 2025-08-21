@@ -23,7 +23,7 @@ Urquhart-Cronish, M., Angert, A.L., Otto, S.P., **MacPherson, A.** Density-depen
 
 Clancy, E., **MacPherson, A.**, Cheek, R.G., Mouton, J.C., Sillett T.S., Chalambor, C.K, Funk, W.C., Hohenlohe, P.A., Unraveling Adaptive Evolutionary Divergence at Microgeographic Scales. *The American Naturalist* 2023
 
-Peters, M.A.E., Mideo, N., **MacPherson, A.**, The maintenance of genetic diversity under host-parasite coevolution in finite, structured populations, *J. Evol. Biol.*. Accepted
+Peters, M.A.E., Mideo, N., **MacPherson, A.**, The maintenance of genetic diversity under host-parasite coevolution in finite, structured populations, *J. Evol. Biol.*. 2023
 
 Liu, P., Song, Y., Colijn, C., **MacPherson, A.**, The impact of sampling bias on viral phylogeographic
 reconstruction. *PLoS Global Public Health*. 2022
