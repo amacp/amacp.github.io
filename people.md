@@ -35,10 +35,6 @@ I have a wide range of research interests that are motivated by biological appli
 ## Undergraduates
 *Luka Yuki*: (USRA 2025)
 
-## Other Group Members
-
-*Erwan Hardy*: (April-July 2025)
-
 
  <br/><br/>
  
@@ -53,5 +49,7 @@ I have a wide range of research interests that are motivated by biological appli
  *Ananaga Bajgai*: (USRA 2023, 2024)
 
  *Oliver Fujiki*: (USRA 2022, MSc 2023-2024)
+
+ *Erwan Hardy*: (Visiting Scholar, April-July 2025)
 
 
