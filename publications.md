@@ -5,9 +5,23 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-Urquhart-Cronish M., Angert, A.L., Otto, S.P., **MacPherson, A.** Density-dependent selection during range expansion affects expansion load in life-history traits. *The American Naturist*. Accepted
+Hall, R.A., **MacPherson, A.** Local Adaptation of Life-History Traits in a Seasonal Environment. *Journal of Evolutionary Biology*, 2025.
 
-Clancy, E., **MacPherson, A.**, Cheek, R.G., Mouton, J.C., Sillett T.S., Chalambor, C.K, Funk, W.C., Hohenlohe, P.A., Unraveling Adaptive Evolutionary Divergence at Microgeographic Scales. *The American Naturalist* Accepted
+Reyes, E., **MacPherson, A.**, M'Gonigle, L. It’s better to be choosy in small populations: drift promotes the evolution of weak female preference for rare phenotypes. *Evolution*, 2025.
+
+Toorians, M., Davies, T.J., **MacPherson, A.** Multi-host pathogen transmission and the disease-diversity relationship. *Biological Reviews*, 2025.
+
+Pennell, M., **MacPherson, A.** Reading Yule in light of the history and present of macroevolution. *Philosophical Transactions of the Royal Society B*, 2025.
+
+Salehzadeh, M., Stockie, J.M., **MacPherson, A.** Aggregation Unveiled: A Sequential Modelling Approach to Bark Beetle Outbreaks. *Theoretical Population Biology*, 2024. [https://doi.org/10.1016/j.tpb.2024.10.002](https://doi.org/10.1016/j.tpb.2024.10.002)
+
+Otto, S.P., **MacPherson, A.**, Colijn, C. Endemic does not mean constant as SARS-CoV-2 continues to evolve. *Evolution*, 2024.
+
+Davies, T.J., **MacPherson, A.** Seed masting as a mechanism for escape from pathogens. *Current Biology*, 2024.
+
+Urquhart-Cronish, M., Angert, A.L., Otto, S.P., **MacPherson, A.** Density-dependent selection during range expansion affects expansion load in life-history traits. *The American Naturalist*. 2024.
+
+Clancy, E., **MacPherson, A.**, Cheek, R.G., Mouton, J.C., Sillett T.S., Chalambor, C.K, Funk, W.C., Hohenlohe, P.A., Unraveling Adaptive Evolutionary Divergence at Microgeographic Scales. *The American Naturalist* 2023
 
 Peters, M.A.E., Mideo, N., **MacPherson, A.**, The maintenance of genetic diversity under host-parasite coevolution in finite, structured populations, *J. Evol. Biol.*. Accepted
 
