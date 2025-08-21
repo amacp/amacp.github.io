@@ -9,9 +9,6 @@ title: People
 
 *Amin Afshari*: PhD (Coadvised by Leithen M'Gonigle)
 
-*Oliver Fujiki*: MSc (Coadvised by Sandy Rutherford) 
-<br/><br/> 
-
 *Yexuan Song*: PhD (Coadvised by Caroline Colijn)
 
 <img align="left" src="people/Yexuan2.png" alt="Yexuan Song"   width="175">
@@ -42,7 +39,6 @@ I have a wide range of research interests that are motivated by biological appli
 
 *Erwan Hardy*: (April-July 2025)
 
-*Simon Gamboa Levi*: (RA: Summer 2024, Summer 2025)
 
  <br/><br/>
  
@@ -56,7 +52,6 @@ I have a wide range of research interests that are motivated by biological appli
 
  *Ananaga Bajgai*: (USRA 2023, 2024)
 
- *Oliver Fujiki*: (USRA 2022)
+ *Oliver Fujiki*: (USRA 2022, MSc 2023-2024)
 
- 
 
