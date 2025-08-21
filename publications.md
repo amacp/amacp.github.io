@@ -5,36 +5,35 @@ title: Publications
 
 [Google Scholar Page](https://scholar.google.ca/citations?user=U18mYXQAAAAJ&hl=en "Google Scholar") 
 
-Hall, R.A., **MacPherson, A.** Local Adaptation of Life-History Traits in a Seasonal Environment. *Journal of Evolutionary Biology*, 2025.
+Hall, R.A., **MacPherson, A.** Local adaptation of life-history traits in a seasonal environment. *Journal of Evolutionary Biology*. 2025.
 
-Reyes, E., **MacPherson, A.**, M'Gonigle, L. It’s better to be choosy in small populations: drift promotes the evolution of weak female preference for rare phenotypes. *Evolution*, 2025.
+Reyes, E., **MacPherson, A.**, M’Gonigle, L. It’s better to be choosy in small populations: drift promotes the evolution of weak female preference for rare phenotypes. *Evolution*. 2025.
 
-Toorians, M., Davies, T.J., **MacPherson, A.** Multi-host pathogen transmission and the disease-diversity relationship. *Biological Reviews*, 2025.
+Toorians, M., Davies, T.J., **MacPherson, A.** Multi-host pathogen transmission and the disease–diversity relationship. *Biological Reviews*. 2025.
 
-Pennell, M., **MacPherson, A.** Reading Yule in light of the history and present of macroevolution. *Philosophical Transactions of the Royal Society B*, 2025.
+Pennell, M., **MacPherson, A.** Reading Yule in light of the history and present of macroevolution. *Philosophical Transactions of the Royal Society B*. 2025.
 
-Salehzadeh, M., Stockie, J.M., **MacPherson, A.** Aggregation Unveiled: A Sequential Modelling Approach to Bark Beetle Outbreaks. *Theoretical Population Biology*, 2024. [https://doi.org/10.1016/j.tpb.2024.10.002](https://doi.org/10.1016/j.tpb.2024.10.002)
+Salehzadeh, M., Stockie, J.M., **MacPherson, A.** Aggregation unveiled: a sequential modelling approach to bark beetle outbreaks. *Theoretical Population Biology*. 2024. [https://doi.org/10.1016/j.tpb.2024.10.002](https://doi.org/10.1016/j.tpb.2024.10.002)
 
-Otto, S.P., **MacPherson, A.**, Colijn, C. Endemic does not mean constant as SARS-CoV-2 continues to evolve. *Evolution*, 2024.
+Otto, S.P., **MacPherson, A.**, Colijn, C. Endemic does not mean constant as SARS-CoV-2 continues to evolve. *Evolution*. 2024.
 
-Davies, T.J., **MacPherson, A.** Seed masting as a mechanism for escape from pathogens. *Current Biology*, 2024.
+Davies, T.J., **MacPherson, A.** Seed masting as a mechanism for escape from pathogens. *Current Biology*. 2024.
 
 Urquhart-Cronish, M., Angert, A.L., Otto, S.P., **MacPherson, A.** Density-dependent selection during range expansion affects expansion load in life-history traits. *The American Naturalist*. 2024.
 
-Clancy, E., **MacPherson, A.**, Cheek, R.G., Mouton, J.C., Sillett T.S., Chalambor, C.K, Funk, W.C., Hohenlohe, P.A., Unraveling Adaptive Evolutionary Divergence at Microgeographic Scales. *The American Naturalist* 2023
+Clancy, E., **MacPherson, A.**, Cheek, R.G., Mouton, J.C., Sillett, T.S., Chalambor, C.K., Funk, W\.C., Hohenlohe, P.A. Unraveling adaptive evolutionary divergence at microgeographic scales. *The American Naturalist*. 2023.
 
-Peters, M.A.E., Mideo, N., **MacPherson, A.**, The maintenance of genetic diversity under host-parasite coevolution in finite, structured populations, *J. Evol. Biol.*. 2023
+Peters, M.A.E., Mideo, N., **MacPherson, A.** The maintenance of genetic diversity under host–parasite coevolution in finite, structured populations. *Journal of Evolutionary Biology*. 2023.
 
-Liu, P., Song, Y., Colijn, C., **MacPherson, A.**, The impact of sampling bias on viral phylogeographic
-reconstruction. *PLoS Global Public Health*. 2022
+Liu, P., Song, Y., Colijn, C., **MacPherson, A.** The impact of sampling bias on viral phylogeographic reconstruction. *PLoS Global Public Health*. 2022.
 
-Wang S., Nalley M.J., Chatla K., Aldaimalani R., **MacPherson A.**, Wei K., Corbett R., Mai D., Bachtrog D., Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS*. 2022
+Wang, S., Nalley, M.J., Chatla, K., Aldaimalani, R., **MacPherson, A.**, Wei, K., Corbett, R., Mai, D., Bachtrog, D. Neo-sex chromosome evolution shapes sex-dependent asymmetrical introgression barrier. *PNAS*. 2022.
 
-**MacPherson, A.**, Wang, S., Yamaguchi R., Rieseberg, L.H., Otto, S.P., Parental Population Range Expansion Before Secondary Contact Promotes Heterosis. *The American Naturalist*. 2022
+**MacPherson, A.**, Wang, S., Yamaguchi, R., Rieseberg, L.H., Otto, S.P. Parental population range expansion before secondary contact promotes heterosis. *The American Naturalist*. 2022.
 
-**MacPherson, A.**, Louca, S., McLaughlin A., Joy, J.B., Pennell, M.W., Unifying Phylogenetic Birth-Death Models in Epidemiology and Macroevolution. *Systematic Biology*. 2021
+**MacPherson, A.**, Louca, S., McLaughlin, A., Joy, J.B., Pennell, M.W. Unifying phylogenetic birth–death models in epidemiology and macroevolution. *Systematic Biology*. 2021.
 
-Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W., Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolution*. 2021
+Louca, S., McLaughlin, A., **MacPherson, A.**, Joy, J.B., Pennell, M.W. Fundamental identifiability limits in molecular epidemiology. *Molecular Biology and Evolution*. 2021.
 
 # Ph.D.
 
