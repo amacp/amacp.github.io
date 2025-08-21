@@ -63,7 +63,3 @@ Mathematica Files: A: [SIRS_Model](./MathematicaFiles/SIRS_Model.nb), B: [SEIRS_
 Nuismer, S.L., **MacPherson, A.**, Rosenblum, E.B., Crossing the threshold: gene-flow, dominance and the critical level of standing genetic variation required for adaptation to novel environments. *Journal of Evolutionary Biology*. 2012
 
 Balemba, O.B., Stenkamp-Strahm, C.H., Cady, J., **MacPherson, A.**, High-fat diet-induced neuropathy of enteric nervous system and the effect of Alpha-7 Nicotinic Acetylcholine receptor agonist, DMAB-Anabaseine Dihydrochloride. *Gastroenterology*. 2011
-
-# Preprints
-
-Toorians, M.E.M., **MacPherson, A.**, Davies, T.J., Unravelling Transmission in Epidemiological Models and its Role in the Disease-Diversity Relationship. 
