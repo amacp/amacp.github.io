@@ -3,13 +3,13 @@ layout: page
 title: People
 ---
 ## Graduate Students
-*Olivia Reiter*: MSc (Coadvised by Ben Ashby)
+- *Olivia Reiter*: MSc (Coadvised by Ben Ashby)
 
-*Simon Gamboa Levi*: PhD (Coadvised by Leithen M'Gonigle)
+- *Simon Gamboa Levi*: PhD (Coadvised by Leithen M'Gonigle)
 
-*Amin Afshari*: PhD (Coadvised by Leithen M'Gonigle)
+- *Amin Afshari*: PhD (Coadvised by Leithen M'Gonigle)
 
-*Yexuan Song*: PhD (Coadvised by Caroline Colijn)
+- *Yexuan Song*: PhD (Coadvised by Caroline Colijn)
 
 <img align="left" src="people/Yexuan2.png" alt="Yexuan Song"   width="175">
 <br/><br/> 
@@ -17,7 +17,7 @@ I am interested in phylogenetics. In particular Ancestral State Reconstruction m
  <br/><br/> <br/><br/> 
 
  <br/><br/>
-*Mahdi Salehzadeh*: PhD (Coadvised by John Stockie)
+- *Mahdi Salehzadeh*: PhD (Coadvised by John Stockie)
 <br/>
 
 [Mahdi's Homepage](https://msalehzadeh.github.io/)
@@ -33,23 +33,22 @@ I have a wide range of research interests that are motivated by biological appli
 <br/><br/> <br/><br/> 
 
 ## Undergraduates
-*Luka Yuki*: (USRA 2025)
-
+- *Luka Yuki*: (USRA 2025)
 
  <br/><br/>
  
  ## Alumni:
  
- *Amy Langdon*: PDF (Cohosted by Caroline Colijn)
+ - *Amy Langdon*: PDF (Cohosted by Caroline Colijn)
 
- *Siavash Riazi*: PDF (Cohosted by Caroline Colijn)
+ - *Siavash Riazi*: PDF (Cohosted by Caroline Colijn)
 
- *Rebeccah Hall*: MSc (2022-2024) Now a PhD student with Vincent Clavez and Matt Osmond in Brest France
+ - *Rebeccah Hall*: MSc (2022-2024) Now a PhD student with Vincent Clavez and Matt Osmond in Brest France
 
- *Ananaga Bajgai*: (USRA 2023, 2024)
+ - *Ananaga Bajgai*: (USRA 2023, 2024)
 
- *Oliver Fujiki*: (USRA 2022, MSc 2023-2024)
+ - *Oliver Fujiki*: (USRA 2022, MSc 2023-2024)
 
- *Erwan Hardy*: (Visiting Scholar, April-July 2025)
+ - *Erwan Hardy*: (Visiting Scholar, April-July 2025)
 
 
