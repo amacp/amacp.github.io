@@ -10,7 +10,7 @@ title: Home
 
 Email: ailenem [at] sfu [dot] ca
 
-Department Webpages:
+**Department Webpages:**
 - [SFU Math](http://www.sfu.ca/math.html):  Mathematics, Genomics and Prediction in Infection and Evolution ([MAGPIE](https://www.sfu.ca/magpie/people/our-group.html))
 - [SFU Biological Sciences](https://www.sfu.ca/biology.html)
 
