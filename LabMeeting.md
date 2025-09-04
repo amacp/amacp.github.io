@@ -9,7 +9,7 @@ Thursdays at 1pm; location TBD.
 | Week       | Topic          | Details |
 |------------|----------------|---------|
 | 2025-09-11 | Lab Handbook   |         |
-| 2025-09-18 | Peer-meetings  |         |
+| 2025-09-18 | Terry Fox Run  |         |
 | 2025-09-25 | Mahdi          |         |
 | 2025-10-02 | PD             |         |
 | 2025-10-09 | Peer-meetings  |         |
