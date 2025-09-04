@@ -4,6 +4,24 @@ title: Lab Resources
 ---
 
 ## Lab Meeting Schedule
+Thursdays at 1pm; location TBD.
+| Week                | Topic        | Details                              |
+|--------------------|-------------|-------------------------------------|
+| 2025-09-11 00:00:00 | Lab Handbook |                            |
+| 2025-09-18 00:00:00 | Peer-meetings  |                                  |
+| 2025-09-25 00:00:00 | Mahdi        |                                     |
+| 2025-10-02 00:00:00 | PD   |                                     |
+| 2025-10-09 00:00:00 | Peer-meetings  |                                     |
+| 2025-10-16 00:00:00 | Amin        |                                     |
+| 2025-10-23 00:00:00 | Luka  |                                     |
+| 2025-10-30 00:00:00 | Peer-meetings        |                                     |
+| 2025-11-06 00:00:00 | Simon        |                                     |
+| 2025-11-13 00:00:00 | Yexuan  |                                     |
+| 2025-11-20 00:00:00 | Peer-meetings        |                                     |
+| 2025-11-27 00:00:00 | Olivia  |                                     |
+| 2025-12-04 00:00:00 | PD        |                                     |
+
+
 Thursdays at 1pm in AQ4102.
 [Summer 2025](https://docs.google.com/spreadsheets/d/11Gyb1py_lyBuCbnBhWrvRXIxfu3-h_lU_pnKv8MOtA8/edit?usp=sharing)
 
