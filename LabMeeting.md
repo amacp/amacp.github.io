@@ -3,6 +3,8 @@ layout: page
 title: Lab Resources
 ---
 
+[LAB HANDBOOK](MacPhersonLabHandbook_8_18_25.pdf) (last updated 8_18_25)
+
 ## Lab Meeting Schedule
 Thursdays at 1pm; location TBD.
 
