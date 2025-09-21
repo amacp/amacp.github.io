@@ -4,6 +4,7 @@ title: Lab Resources
 ---
 
 [LAB HANDBOOK](MacPhersonLabHandbook_8_18_25.pdf) (last updated 8_18_25)
+[NSERC Consent Form](https://www.nserc-crsng.gc.ca/onlineservices-servicesenligne/pdf/f100d_e.pdf)
 
 ## Lab Meeting Schedule
 Thursdays at 1pm; location TBD.
