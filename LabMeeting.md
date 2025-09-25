@@ -3,7 +3,7 @@ layout: page
 title: Lab Resources
 ---
 
-[LAB HANDBOOK](MacPhersonLabHandbook_8_18_25.pdf) (last updated 8_18_25)
+[LAB HANDBOOK](MacPhersonLabHandbook_8_18_25.pdf) (last updated 9_25_25)
 
 [NSERC Consent Form](https://www.nserc-crsng.gc.ca/onlineservices-servicesenligne/pdf/f100d_e.pdf)
 
