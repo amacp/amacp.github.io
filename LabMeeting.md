@@ -24,7 +24,7 @@ Thursdays at 1pm; location AQ4102.
 | 2025-11-13 | Yexuan         |         |
 | 2025-11-20 | Peer-meetings  |         |
 | 2025-11-27 | Olivia         |         |
-| 2025-12-04 | PD             |         |
+| 2025-12-04 | Paper Discussion | [ Why are there so many definitions of fitness in models      ](https://ecoevorxiv.org/repository/view/6959/) |
 
 
 
