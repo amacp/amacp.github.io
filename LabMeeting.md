@@ -18,8 +18,8 @@ Thursdays at 1pm; location AQ4102.
 | 2025-10-02 | Mahdi             |         |
 | 2025-10-09 | Peer-meetings  |         |
 | 2025-10-16 | Amin           |         |
-| 2025-10-23 | Luka           |         |
-| 2025-10-30 | Peer-meetings  |         |
+| 2025-10-23 | Peer-meetings          |         |
+| 2025-10-30 | Luka  |         |
 | 2025-11-06 | Simon          |         |
 | 2025-11-13 | Yexuan         |         |
 | 2025-11-20 | Peer-meetings  |         |
