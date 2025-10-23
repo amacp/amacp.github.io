@@ -2,6 +2,12 @@
 layout: page
 title: Outreach
 ---
+# 2025 Math Camp: Understanding Canadian Demography with Math
+Populations grow and shrink, the distribution of age groups change, generations come and go.  How can math help us understand these changes?  Here we use concepts from linear algerbra, data from Statistics Canada, and modelling from the field of "demography" to understand how the Canadian popualtion has changed over the past 50 years and how it is projected to change in the next 50.  Use the following worksheet to connect these changes to your own lived experience.
+
+[Slides](MathCamp_2025.pdf)
+
+[Worksheet](MathCamp_Worksheet.pdf)
 
 # 2024 Computational Math Day
 
