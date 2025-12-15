@@ -7,6 +7,8 @@ title: Lab Resources
 
 [NSERC Consent Form](https://www.nserc-crsng.gc.ca/onlineservices-servicesenligne/pdf/f100d_e.pdf)
 
+[LATEX Template](BasicTemplate.zip) (last updated 9_25_25)
+
 ## Lab Meeting Schedule
 Thursdays at 1pm; location AQ4102.
 
