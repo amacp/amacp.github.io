@@ -4,6 +4,11 @@ title: Courses
 ---
 
 # Courses
+## Stochastic Modelling and Simulation
+- Last taught in Spring 2026
+
+All material avialble upon request.
+
 ## Probability and Stochastic Stochastic Proceses in Biology ([Website](https://amacp.github.io/Math468/))
 - Last taught in Spring 2024, website may not be maintained
 - Lecture [Videos](https://www.youtube.com/playlist?list=PLYrDm8pP64rG39GkPXJhQeJszlw11kHdO)
