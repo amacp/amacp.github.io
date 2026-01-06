@@ -23,7 +23,7 @@ Friday 11-12 Location TBD
 | 2026-02-23 | Loraine        |Research Visit Summary|
 | 2026-03-02 | Mahdi          |         |
 | 2026-03-09 | Simon          |         |
-| 2026-03-16 | Oliva          |         |
+| 2026-03-16 | Olivia          |         |
 | 2026-03-23 | Peer-meetings  |         |
 | 2026-03-30 | PD             | Planning summer research |
 
