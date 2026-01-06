@@ -10,6 +10,24 @@ title: Lab Resources
 [LATEX Template](BasicTemplate.zip) (last updated 9_25_25)
 
 ## Lab Meeting Schedule
+Spring 2026
+Friday 11-12 Location TBD
+| Week       | Topic          | Details |
+|------------|----------------|---------|
+| 2026-01-12 | PD             |How to lead a discussion group|
+| 2026-01-19 | Peer-meetings  |         |
+| 2026-01-26 | Yexuan         |         |
+| 2026-02-02 | SHAPE meeting practice|  |
+| 2026-02-09 | Amin           |         |
+| 2026-02-16 | Oliver         |Defence Practice!!|
+| 2026-02-23 | Loraine        |Research Visit Summary|
+| 2026-03-02 | Mahdi          |         |
+| 2026-03-09 | Simon          |         |
+| 2026-03-16 | Oliva          |         |
+| 2026-03-23 | Peer-meetings  |         |
+| 2026-03-30 | PD             | Planning summer research |
+
+Fall 2025
 Thursdays at 1pm; location AQ4102.
 
 | Week       | Topic          | Details |
