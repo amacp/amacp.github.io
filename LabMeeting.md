@@ -14,18 +14,18 @@ Spring 2026
 Friday 11-12 Location TBD
 | Week       | Topic          | Details |
 |------------|----------------|---------|
-| 2026-01-12 | PD             |How to lead a discussion group|
-| 2026-01-19 | Peer-meetings  |         |
-| 2026-01-26 | Yexuan         |         |
-| 2026-02-02 | SHAPE meeting practice|  |
-| 2026-02-09 | Amin           |         |
-| 2026-02-16 | Oliver         |Defence Practice!!|
-| 2026-02-23 | Loraine        |Research Visit Summary|
-| 2026-03-02 | Mahdi          |         |
-| 2026-03-09 | Simon          |         |
-| 2026-03-16 | Olivia          |         |
-| 2026-03-23 | Peer-meetings  |         |
-| 2026-03-30 | PD             | Planning summer research |
+| 2026-01-16 | PD             |How to lead a discussion group|
+| 2026-01-23 | Peer-meetings  |         |
+| 2026-01-30 | SHAPE meeting practice          |         |
+| 2026-02-06 |SHAPE MEETING            | (Off) |
+| 2026-02-13 | Amin            |         |
+| 2026-02-20 | Loraine          |Research Visit Summary|
+| 2026-02-27 | Oliver         |Defence Practice!!|
+| 2026-03-06 | Mahdi          |         |
+| 2026-03-013 | Simon          |         |
+| 2026-03-20 | Olivia          |         |
+| 2026-03-27 | Yexuan  |         |
+| 2026-04-03 |PD             |Planning summer research|  |
 
 Fall 2025
 Thursdays at 1pm; location AQ4102.
