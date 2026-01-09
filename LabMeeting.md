@@ -12,6 +12,8 @@ title: Lab Resources
 ## Lab Meeting Schedule
 Spring 2026
 Friday 11-12 Location AQ4102
+
+
 | Week       | Topic          | Details |
 |------------|----------------|---------|
 | 2026-01-16 | PD             |How to lead a discussion group|
