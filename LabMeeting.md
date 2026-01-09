@@ -11,11 +11,11 @@ title: Lab Resources
 
 ## Lab Meeting Schedule
 Spring 2026
-Friday 11-12 Location TBD
+Friday 11-12 Location AQ4102
 | Week       | Topic          | Details |
 |------------|----------------|---------|
 | 2026-01-16 | PD             |How to lead a discussion group|
-| 2026-01-23 | Peer-meetings  |         |
+| 2026-01-23 | Peer-meetings  |Room AQ4102 is busy|
 | 2026-01-30 | SHAPE meeting practice          |         |
 | 2026-02-06 |SHAPE MEETING            | (Off) |
 | 2026-02-13 | Amin            |         |
