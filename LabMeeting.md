@@ -22,7 +22,7 @@ Friday 11-12 Location AQ4102
 | 2026-02-06 |SHAPE MEETING            | (Off) |
 | 2026-02-13 | Amin            |         |
 | 2026-02-20 | Loraine          |Research Visit Summary|
-| 2026-02-27 | Oliver         |Defence Practice!!|
+| 2026-02-27 | Oliver (via zoom)        |Defence Practice!!|
 | 2026-03-06 | Mahdi          |         |
 | 2026-03-13 | Olivia          |         |
 | 2026-03-20 | Simon          |         |
