@@ -23,11 +23,11 @@ Friday 11-12 Location AQ4102
 | 2026-02-13 | Amin            |         |
 | 2026-02-20 | Loraine          |Research Visit Summary|
 | 2026-02-27 | Oliver (via zoom)        |Defence Practice!!|
-| 2026-03-06 | Mahdi          |         |
+| 2026-03-06 | Lab meeting canceled          |         |
 | 2026-03-13 | Olivia          |         |
 | 2026-03-20 | Simon          |         |
 | 2026-03-27 | Yexuan  |         |
-| 2026-04-03 |PD             |Planning summer research|  |
+| 2026-04-03 |Mahdi            ||  |
 
 Fall 2025
 Thursdays at 1pm; location AQ4102.
