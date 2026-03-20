@@ -27,7 +27,7 @@ Friday 11-12 Location AQ4102
 | 2026-03-13 | Olivia          |         |
 | 2026-03-20 | Simon          |         |
 | 2026-03-27 | Yexuan  |         |
-| 2026-04-03 |Mahdi            ||  |
+| 2026-04-10 |Mahdi            ||  |
 
 Fall 2025
 Thursdays at 1pm; location AQ4102.
