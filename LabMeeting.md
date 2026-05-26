@@ -16,15 +16,15 @@ Thursdays 10-11 Location AQ4102
 | Week       | Topic          | Details |
 |------------|----------------|---------|
 | 2026-05-07 | Summer Goals   |What do you want to accomplish this summer? What can I do to best support you?|
-| 2026-05-21 |  ||
-| 2026-05-21 |  ||
-| 2026-06-04 |  ||
-| 2026-06-18 |  ||
-| 2026-07-02 |  ||
-| 2026-07-16 |  ||
-| 2026-07-30 |  ||
-| 2026-08-13 |  ||
-| 2026-07-27 |  ||
+| 2026-05-21 |Canceled  ||
+| 2026-05-21 | CSEE Recap ||
+| 2026-06-11 | Luka ||
+| 2026-06-18 |Olivia-MD2PI?  ||
+| 2026-07-02 | Lab Party ||
+| 2026-07-16 | Mahdi-Modeling workshop? ||
+| 2026-07-30 | Simon ||
+| 2026-08-13 | Megan ||
+| 2026-08-27 | Revisiting our summer goals ||
 
 Spring 2026
 Friday 11-12 Location AQ4102
