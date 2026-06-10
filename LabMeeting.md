@@ -13,6 +13,8 @@ title: Lab Resources
 
 Summer 2026
 Thursdays 10-11 Location AQ4102
+
+
 | Week       | Topic          | Details |
 |------------|----------------|---------|
 | 2026-05-07 | Summer Goals   |What do you want to accomplish this summer? What can I do to best support you?|
