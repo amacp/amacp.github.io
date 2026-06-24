@@ -25,6 +25,7 @@ Thursdays 10-11 Location AQ4102
 | 2026-07-02 | Lab Party ||
 | 2026-07-16 | Mahdi-Modeling workshop? ||
 | 2026-07-30 | Simon ||
+| 2026-08-06 | Yexuan |Thesis defence practice|
 | 2026-08-13 | Megan ||
 | 2026-08-27 | Revisiting our summer goals ||
 
