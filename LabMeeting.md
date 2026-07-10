@@ -23,7 +23,7 @@ Thursdays 10-11 Location AQ4102
 | 2026-06-11 | Luka ||
 | 2026-06-18 |Olivia-MD2PI?  ||
 | 2026-07-02 | Lab Party ||
-| 2026-07-16 | Mahdi-Modeling workshop? ||
+| 2026-07-09 | Mahdi-Modeling workshop? ||
 | 2026-07-30 | Simon ||
 | 2026-08-06 | Yexuan |Thesis defence practice|
 | 2026-08-13 | Megan ||
